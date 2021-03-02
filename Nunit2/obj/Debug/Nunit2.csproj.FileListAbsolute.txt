@@ -1,0 +1,7 @@
+C:\Users\Sadhik\source\repos\Nunit2\obj\Debug\Nunit2.csprojAssemblyReference.cache
+C:\Users\Sadhik\source\repos\Nunit2\obj\Debug\Nunit2.csproj.CoreCompileInputs.cache
+C:\Users\Sadhik\source\repos\Nunit2\bin\Debug\Nunit2.exe.config
+C:\Users\Sadhik\source\repos\Nunit2\bin\Debug\Nunit2.exe
+C:\Users\Sadhik\source\repos\Nunit2\bin\Debug\Nunit2.pdb
+C:\Users\Sadhik\source\repos\Nunit2\obj\Debug\Nunit2.exe
+C:\Users\Sadhik\source\repos\Nunit2\obj\Debug\Nunit2.pdb
