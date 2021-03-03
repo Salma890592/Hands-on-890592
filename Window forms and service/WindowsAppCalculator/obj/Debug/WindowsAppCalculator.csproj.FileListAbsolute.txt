@@ -1,0 +1,10 @@
+C:\Users\Sadhik\source\repos\WindowsAppCalculator\bin\Debug\WindowsAppCalculator.exe.config
+C:\Users\Sadhik\source\repos\WindowsAppCalculator\bin\Debug\WindowsAppCalculator.exe
+C:\Users\Sadhik\source\repos\WindowsAppCalculator\bin\Debug\WindowsAppCalculator.pdb
+C:\Users\Sadhik\source\repos\WindowsAppCalculator\obj\Debug\WindowsAppCalculator.csprojAssemblyReference.cache
+C:\Users\Sadhik\source\repos\WindowsAppCalculator\obj\Debug\WindowsAppCalculator.Form1.resources
+C:\Users\Sadhik\source\repos\WindowsAppCalculator\obj\Debug\WindowsAppCalculator.Properties.Resources.resources
+C:\Users\Sadhik\source\repos\WindowsAppCalculator\obj\Debug\WindowsAppCalculator.csproj.GenerateResource.cache
+C:\Users\Sadhik\source\repos\WindowsAppCalculator\obj\Debug\WindowsAppCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Sadhik\source\repos\WindowsAppCalculator\obj\Debug\WindowsAppCalculator.exe
+C:\Users\Sadhik\source\repos\WindowsAppCalculator\obj\Debug\WindowsAppCalculator.pdb
