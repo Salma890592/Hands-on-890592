@@ -1,0 +1,9 @@
+C:\Users\Sadhik\source\repos\CodeAnalysisSampleMain\bin\Debug\CodeAnalysisSampleMain.exe.config
+C:\Users\Sadhik\source\repos\CodeAnalysisSampleMain\bin\Debug\CodeAnalysisSampleMain.exe
+C:\Users\Sadhik\source\repos\CodeAnalysisSampleMain\bin\Debug\CodeAnalysisSampleMain.pdb
+C:\Users\Sadhik\source\repos\CodeAnalysisSampleMain\bin\Debug\CodeAnalysisSampleMain.exe.CodeAnalysisLog.xml
+C:\Users\Sadhik\source\repos\CodeAnalysisSampleMain\bin\Debug\CodeAnalysisSampleMain.exe.lastcodeanalysissucceeded
+C:\Users\Sadhik\source\repos\CodeAnalysisSampleMain\obj\Debug\CodeAnalysisSampleMain.csprojAssemblyReference.cache
+C:\Users\Sadhik\source\repos\CodeAnalysisSampleMain\obj\Debug\CodeAnalysisSampleMain.csproj.CoreCompileInputs.cache
+C:\Users\Sadhik\source\repos\CodeAnalysisSampleMain\obj\Debug\CodeAnalysisSampleMain.exe
+C:\Users\Sadhik\source\repos\CodeAnalysisSampleMain\obj\Debug\CodeAnalysisSampleMain.pdb
