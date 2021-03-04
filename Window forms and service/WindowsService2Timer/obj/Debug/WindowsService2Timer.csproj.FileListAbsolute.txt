@@ -1,0 +1,9 @@
+C:\Users\Sadhik\source\repos\WindowsService2Timer\bin\Debug\WindowsService2Timer.exe.config
+C:\Users\Sadhik\source\repos\WindowsService2Timer\bin\Debug\WindowsService2Timer.exe
+C:\Users\Sadhik\source\repos\WindowsService2Timer\bin\Debug\WindowsService2Timer.pdb
+C:\Users\Sadhik\source\repos\WindowsService2Timer\obj\Debug\WindowsService2Timer.csprojAssemblyReference.cache
+C:\Users\Sadhik\source\repos\WindowsService2Timer\obj\Debug\WindowsService2Timer.ProjectInstaller.resources
+C:\Users\Sadhik\source\repos\WindowsService2Timer\obj\Debug\WindowsService2Timer.csproj.GenerateResource.cache
+C:\Users\Sadhik\source\repos\WindowsService2Timer\obj\Debug\WindowsService2Timer.csproj.CoreCompileInputs.cache
+C:\Users\Sadhik\source\repos\WindowsService2Timer\obj\Debug\WindowsService2Timer.exe
+C:\Users\Sadhik\source\repos\WindowsService2Timer\obj\Debug\WindowsService2Timer.pdb

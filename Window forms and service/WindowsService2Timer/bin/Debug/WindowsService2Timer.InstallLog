@@ -1,0 +1,60 @@
+﻿Installing assembly 'C:\Users\Sadhik\source\repos\WindowsService2Timer\bin\Debug\WindowsService2Timer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Sadhik\source\repos\WindowsService2Timer\bin\Debug\WindowsService2Timer.InstallLog
+   assemblypath = C:\Users\Sadhik\source\repos\WindowsService2Timer\bin\Debug\WindowsService2Timer.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Sadhik\source\repos\WindowsService2Timer\bin\Debug\WindowsService2Timer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Sadhik\source\repos\WindowsService2Timer\bin\Debug\WindowsService2Timer.InstallLog
+   assemblypath = C:\Users\Sadhik\source\repos\WindowsService2Timer\bin\Debug\WindowsService2Timer.exe
+Installing assembly 'C:\Users\Sadhik\source\repos\WindowsService2Timer\bin\Debug\WindowsService2Timer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Sadhik\source\repos\WindowsService2Timer\bin\Debug\WindowsService2Timer.InstallLog
+   assemblypath = C:\Users\Sadhik\source\repos\WindowsService2Timer\bin\Debug\WindowsService2Timer.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Sadhik\source\repos\WindowsService2Timer\bin\Debug\WindowsService2Timer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Sadhik\source\repos\WindowsService2Timer\bin\Debug\WindowsService2Timer.InstallLog
+   assemblypath = C:\Users\Sadhik\source\repos\WindowsService2Timer\bin\Debug\WindowsService2Timer.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\Sadhik\source\repos\WindowsService2Timer\bin\Debug\WindowsService2Timer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Sadhik\source\repos\WindowsService2Timer\bin\Debug\WindowsService2Timer.InstallLog
+   assemblypath = C:\Users\Sadhik\source\repos\WindowsService2Timer\bin\Debug\WindowsService2Timer.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Sadhik\source\repos\WindowsService2Timer\bin\Debug\WindowsService2Timer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Sadhik\source\repos\WindowsService2Timer\bin\Debug\WindowsService2Timer.InstallLog
+   assemblypath = C:\Users\Sadhik\source\repos\WindowsService2Timer\bin\Debug\WindowsService2Timer.exe
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'C:\Users\Sadhik\source\repos\WindowsService2Timer\bin\Debug\WindowsService2Timer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Sadhik\source\repos\WindowsService2Timer\bin\Debug\WindowsService2Timer.InstallLog
+   assemblypath = C:\Users\Sadhik\source\repos\WindowsService2Timer\bin\Debug\WindowsService2Timer.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\Sadhik\source\repos\WindowsService2Timer\bin\Debug\WindowsService2Timer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Sadhik\source\repos\WindowsService2Timer\bin\Debug\WindowsService2Timer.InstallLog
+   assemblypath = C:\Users\Sadhik\source\repos\WindowsService2Timer\bin\Debug\WindowsService2Timer.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Sadhik\source\repos\WindowsService2Timer\bin\Debug\WindowsService2Timer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Sadhik\source\repos\WindowsService2Timer\bin\Debug\WindowsService2Timer.InstallLog
+   assemblypath = C:\Users\Sadhik\source\repos\WindowsService2Timer\bin\Debug\WindowsService2Timer.exe
