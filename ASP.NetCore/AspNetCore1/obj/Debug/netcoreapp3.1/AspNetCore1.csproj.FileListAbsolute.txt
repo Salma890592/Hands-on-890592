@@ -1,0 +1,13 @@
+C:\Users\Sadhik\source\repos\AspNetCore1\bin\Debug\netcoreapp3.1\AspNetCore1.exe
+C:\Users\Sadhik\source\repos\AspNetCore1\bin\Debug\netcoreapp3.1\AspNetCore1.deps.json
+C:\Users\Sadhik\source\repos\AspNetCore1\bin\Debug\netcoreapp3.1\AspNetCore1.runtimeconfig.json
+C:\Users\Sadhik\source\repos\AspNetCore1\bin\Debug\netcoreapp3.1\AspNetCore1.runtimeconfig.dev.json
+C:\Users\Sadhik\source\repos\AspNetCore1\bin\Debug\netcoreapp3.1\AspNetCore1.dll
+C:\Users\Sadhik\source\repos\AspNetCore1\bin\Debug\netcoreapp3.1\AspNetCore1.pdb
+C:\Users\Sadhik\source\repos\AspNetCore1\obj\Debug\netcoreapp3.1\AspNetCore1.csprojAssemblyReference.cache
+C:\Users\Sadhik\source\repos\AspNetCore1\obj\Debug\netcoreapp3.1\AspNetCore1.AssemblyInfoInputs.cache
+C:\Users\Sadhik\source\repos\AspNetCore1\obj\Debug\netcoreapp3.1\AspNetCore1.AssemblyInfo.cs
+C:\Users\Sadhik\source\repos\AspNetCore1\obj\Debug\netcoreapp3.1\AspNetCore1.csproj.CoreCompileInputs.cache
+C:\Users\Sadhik\source\repos\AspNetCore1\obj\Debug\netcoreapp3.1\AspNetCore1.dll
+C:\Users\Sadhik\source\repos\AspNetCore1\obj\Debug\netcoreapp3.1\AspNetCore1.pdb
+C:\Users\Sadhik\source\repos\AspNetCore1\obj\Debug\netcoreapp3.1\AspNetCore1.genruntimeconfig.cache
