@@ -1,0 +1,13 @@
+C:\Users\Sadhik\source\repos\SingletonHands1\bin\Debug\netcoreapp3.1\SingletonHands1.exe
+C:\Users\Sadhik\source\repos\SingletonHands1\bin\Debug\netcoreapp3.1\SingletonHands1.deps.json
+C:\Users\Sadhik\source\repos\SingletonHands1\bin\Debug\netcoreapp3.1\SingletonHands1.runtimeconfig.json
+C:\Users\Sadhik\source\repos\SingletonHands1\bin\Debug\netcoreapp3.1\SingletonHands1.runtimeconfig.dev.json
+C:\Users\Sadhik\source\repos\SingletonHands1\bin\Debug\netcoreapp3.1\SingletonHands1.dll
+C:\Users\Sadhik\source\repos\SingletonHands1\bin\Debug\netcoreapp3.1\SingletonHands1.pdb
+C:\Users\Sadhik\source\repos\SingletonHands1\obj\Debug\netcoreapp3.1\SingletonHands1.csprojAssemblyReference.cache
+C:\Users\Sadhik\source\repos\SingletonHands1\obj\Debug\netcoreapp3.1\SingletonHands1.AssemblyInfoInputs.cache
+C:\Users\Sadhik\source\repos\SingletonHands1\obj\Debug\netcoreapp3.1\SingletonHands1.AssemblyInfo.cs
+C:\Users\Sadhik\source\repos\SingletonHands1\obj\Debug\netcoreapp3.1\SingletonHands1.csproj.CoreCompileInputs.cache
+C:\Users\Sadhik\source\repos\SingletonHands1\obj\Debug\netcoreapp3.1\SingletonHands1.dll
+C:\Users\Sadhik\source\repos\SingletonHands1\obj\Debug\netcoreapp3.1\SingletonHands1.pdb
+C:\Users\Sadhik\source\repos\SingletonHands1\obj\Debug\netcoreapp3.1\SingletonHands1.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Sadhik\source\repos\MediatorDPHandsOn7\bin\Debug\netcoreapp3.1\MediatorDPHandsOn7.exe
+C:\Users\Sadhik\source\repos\MediatorDPHandsOn7\bin\Debug\netcoreapp3.1\MediatorDPHandsOn7.deps.json
+C:\Users\Sadhik\source\repos\MediatorDPHandsOn7\bin\Debug\netcoreapp3.1\MediatorDPHandsOn7.runtimeconfig.json
+C:\Users\Sadhik\source\repos\MediatorDPHandsOn7\bin\Debug\netcoreapp3.1\MediatorDPHandsOn7.runtimeconfig.dev.json
+C:\Users\Sadhik\source\repos\MediatorDPHandsOn7\bin\Debug\netcoreapp3.1\MediatorDPHandsOn7.dll
+C:\Users\Sadhik\source\repos\MediatorDPHandsOn7\bin\Debug\netcoreapp3.1\MediatorDPHandsOn7.pdb
+C:\Users\Sadhik\source\repos\MediatorDPHandsOn7\obj\Debug\netcoreapp3.1\MediatorDPHandsOn7.csprojAssemblyReference.cache
+C:\Users\Sadhik\source\repos\MediatorDPHandsOn7\obj\Debug\netcoreapp3.1\MediatorDPHandsOn7.AssemblyInfoInputs.cache
+C:\Users\Sadhik\source\repos\MediatorDPHandsOn7\obj\Debug\netcoreapp3.1\MediatorDPHandsOn7.AssemblyInfo.cs
+C:\Users\Sadhik\source\repos\MediatorDPHandsOn7\obj\Debug\netcoreapp3.1\MediatorDPHandsOn7.csproj.CoreCompileInputs.cache
+C:\Users\Sadhik\source\repos\MediatorDPHandsOn7\obj\Debug\netcoreapp3.1\MediatorDPHandsOn7.dll
+C:\Users\Sadhik\source\repos\MediatorDPHandsOn7\obj\Debug\netcoreapp3.1\MediatorDPHandsOn7.pdb
+C:\Users\Sadhik\source\repos\MediatorDPHandsOn7\obj\Debug\netcoreapp3.1\MediatorDPHandsOn7.genruntimeconfig.cache

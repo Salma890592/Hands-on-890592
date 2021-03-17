@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BuilderPatternDp_Hands_On3/1.0.0": {
+        "runtime": {
+          "BuilderPatternDp_Hands_On3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BuilderPatternDp_Hands_On3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

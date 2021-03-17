@@ -1,0 +1,13 @@
+C:\Users\Sadhik\source\repos\AbstractFactoryDP_Hands_On2\bin\Debug\netcoreapp3.1\AbstractFactoryDP_Hands_On2.exe
+C:\Users\Sadhik\source\repos\AbstractFactoryDP_Hands_On2\bin\Debug\netcoreapp3.1\AbstractFactoryDP_Hands_On2.deps.json
+C:\Users\Sadhik\source\repos\AbstractFactoryDP_Hands_On2\bin\Debug\netcoreapp3.1\AbstractFactoryDP_Hands_On2.runtimeconfig.json
+C:\Users\Sadhik\source\repos\AbstractFactoryDP_Hands_On2\bin\Debug\netcoreapp3.1\AbstractFactoryDP_Hands_On2.runtimeconfig.dev.json
+C:\Users\Sadhik\source\repos\AbstractFactoryDP_Hands_On2\bin\Debug\netcoreapp3.1\AbstractFactoryDP_Hands_On2.dll
+C:\Users\Sadhik\source\repos\AbstractFactoryDP_Hands_On2\bin\Debug\netcoreapp3.1\AbstractFactoryDP_Hands_On2.pdb
+C:\Users\Sadhik\source\repos\AbstractFactoryDP_Hands_On2\obj\Debug\netcoreapp3.1\AbstractFactoryDP_Hands_On2.csprojAssemblyReference.cache
+C:\Users\Sadhik\source\repos\AbstractFactoryDP_Hands_On2\obj\Debug\netcoreapp3.1\AbstractFactoryDP_Hands_On2.AssemblyInfoInputs.cache
+C:\Users\Sadhik\source\repos\AbstractFactoryDP_Hands_On2\obj\Debug\netcoreapp3.1\AbstractFactoryDP_Hands_On2.AssemblyInfo.cs
+C:\Users\Sadhik\source\repos\AbstractFactoryDP_Hands_On2\obj\Debug\netcoreapp3.1\AbstractFactoryDP_Hands_On2.csproj.CoreCompileInputs.cache
+C:\Users\Sadhik\source\repos\AbstractFactoryDP_Hands_On2\obj\Debug\netcoreapp3.1\AbstractFactoryDP_Hands_On2.dll
+C:\Users\Sadhik\source\repos\AbstractFactoryDP_Hands_On2\obj\Debug\netcoreapp3.1\AbstractFactoryDP_Hands_On2.pdb
+C:\Users\Sadhik\source\repos\AbstractFactoryDP_Hands_On2\obj\Debug\netcoreapp3.1\AbstractFactoryDP_Hands_On2.genruntimeconfig.cache

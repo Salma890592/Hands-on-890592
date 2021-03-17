@@ -71,7 +71,7 @@ namespace TestLibrary
 
 
         [Test]
-        [TestCase("Biryani", FoodDetail.Category.MainDish, 150.00, "01/09/2019")]  //date less than current date for expiry date parameter
+        [TestCase("Biryani", FoodDetail.Category.MainDish, 150.00, "01/09/2020")]  //date less than current date for expiry date parameter
 
         public void FoodItemExpiryDateLessThanCurrentException(string name, int category, double price, DateTime expDate)
         {

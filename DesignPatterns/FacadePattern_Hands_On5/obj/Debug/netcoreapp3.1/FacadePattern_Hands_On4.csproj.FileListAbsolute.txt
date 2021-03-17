@@ -1,0 +1,13 @@
+C:\Users\Sadhik\source\repos\FacadePattern_Hands_On4\bin\Debug\netcoreapp3.1\FacadePattern_Hands_On4.exe
+C:\Users\Sadhik\source\repos\FacadePattern_Hands_On4\bin\Debug\netcoreapp3.1\FacadePattern_Hands_On4.deps.json
+C:\Users\Sadhik\source\repos\FacadePattern_Hands_On4\bin\Debug\netcoreapp3.1\FacadePattern_Hands_On4.runtimeconfig.json
+C:\Users\Sadhik\source\repos\FacadePattern_Hands_On4\bin\Debug\netcoreapp3.1\FacadePattern_Hands_On4.runtimeconfig.dev.json
+C:\Users\Sadhik\source\repos\FacadePattern_Hands_On4\bin\Debug\netcoreapp3.1\FacadePattern_Hands_On4.dll
+C:\Users\Sadhik\source\repos\FacadePattern_Hands_On4\bin\Debug\netcoreapp3.1\FacadePattern_Hands_On4.pdb
+C:\Users\Sadhik\source\repos\FacadePattern_Hands_On4\obj\Debug\netcoreapp3.1\FacadePattern_Hands_On4.csprojAssemblyReference.cache
+C:\Users\Sadhik\source\repos\FacadePattern_Hands_On4\obj\Debug\netcoreapp3.1\FacadePattern_Hands_On4.AssemblyInfoInputs.cache
+C:\Users\Sadhik\source\repos\FacadePattern_Hands_On4\obj\Debug\netcoreapp3.1\FacadePattern_Hands_On4.AssemblyInfo.cs
+C:\Users\Sadhik\source\repos\FacadePattern_Hands_On4\obj\Debug\netcoreapp3.1\FacadePattern_Hands_On4.csproj.CoreCompileInputs.cache
+C:\Users\Sadhik\source\repos\FacadePattern_Hands_On4\obj\Debug\netcoreapp3.1\FacadePattern_Hands_On4.dll
+C:\Users\Sadhik\source\repos\FacadePattern_Hands_On4\obj\Debug\netcoreapp3.1\FacadePattern_Hands_On4.pdb
+C:\Users\Sadhik\source\repos\FacadePattern_Hands_On4\obj\Debug\netcoreapp3.1\FacadePattern_Hands_On4.genruntimeconfig.cache

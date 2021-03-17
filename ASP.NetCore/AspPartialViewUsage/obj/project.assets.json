@@ -6074,11 +6074,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sadhik\\source\\repos\\AspPartialViewUsage\\AspPartialViewUsage.csproj",
+      "projectUniqueName": "C:\\Users\\Sadhik\\Desktop\\Hands on-890592\\ASP.NetCore\\AspPartialViewUsage\\AspPartialViewUsage.csproj",
       "projectName": "AspPartialViewUsage",
-      "projectPath": "C:\\Users\\Sadhik\\source\\repos\\AspPartialViewUsage\\AspPartialViewUsage.csproj",
+      "projectPath": "C:\\Users\\Sadhik\\Desktop\\Hands on-890592\\ASP.NetCore\\AspPartialViewUsage\\AspPartialViewUsage.csproj",
       "packagesPath": "C:\\Users\\Sadhik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sadhik\\source\\repos\\AspPartialViewUsage\\obj\\",
+      "outputPath": "C:\\Users\\Sadhik\\Desktop\\Hands on-890592\\ASP.NetCore\\AspPartialViewUsage\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sadhik\\AppData\\Roaming\\NuGet\\NuGet.Config",

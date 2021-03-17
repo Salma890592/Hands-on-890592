@@ -2574,11 +2574,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sadhik\\source\\repos\\ASP_CORE_LOG4NET\\ASP_CORE_LOG4NET.csproj",
+      "projectUniqueName": "C:\\Users\\Sadhik\\Desktop\\Hands on-890592\\ASP.NetCore\\ASP_CORE_LOG4NET\\ASP_CORE_LOG4NET.csproj",
       "projectName": "ASP_CORE_LOG4NET",
-      "projectPath": "C:\\Users\\Sadhik\\source\\repos\\ASP_CORE_LOG4NET\\ASP_CORE_LOG4NET.csproj",
+      "projectPath": "C:\\Users\\Sadhik\\Desktop\\Hands on-890592\\ASP.NetCore\\ASP_CORE_LOG4NET\\ASP_CORE_LOG4NET.csproj",
       "packagesPath": "C:\\Users\\Sadhik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sadhik\\source\\repos\\ASP_CORE_LOG4NET\\obj\\",
+      "outputPath": "C:\\Users\\Sadhik\\Desktop\\Hands on-890592\\ASP.NetCore\\ASP_CORE_LOG4NET\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sadhik\\AppData\\Roaming\\NuGet\\NuGet.Config",

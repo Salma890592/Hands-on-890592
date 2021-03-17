@@ -1,0 +1,13 @@
+C:\Users\Sadhik\source\repos\BuilderPatternDp_Hands_On3\bin\Debug\netcoreapp3.1\BuilderPatternDp_Hands_On3.exe
+C:\Users\Sadhik\source\repos\BuilderPatternDp_Hands_On3\bin\Debug\netcoreapp3.1\BuilderPatternDp_Hands_On3.deps.json
+C:\Users\Sadhik\source\repos\BuilderPatternDp_Hands_On3\bin\Debug\netcoreapp3.1\BuilderPatternDp_Hands_On3.runtimeconfig.json
+C:\Users\Sadhik\source\repos\BuilderPatternDp_Hands_On3\bin\Debug\netcoreapp3.1\BuilderPatternDp_Hands_On3.runtimeconfig.dev.json
+C:\Users\Sadhik\source\repos\BuilderPatternDp_Hands_On3\bin\Debug\netcoreapp3.1\BuilderPatternDp_Hands_On3.dll
+C:\Users\Sadhik\source\repos\BuilderPatternDp_Hands_On3\bin\Debug\netcoreapp3.1\BuilderPatternDp_Hands_On3.pdb
+C:\Users\Sadhik\source\repos\BuilderPatternDp_Hands_On3\obj\Debug\netcoreapp3.1\BuilderPatternDp_Hands_On3.csprojAssemblyReference.cache
+C:\Users\Sadhik\source\repos\BuilderPatternDp_Hands_On3\obj\Debug\netcoreapp3.1\BuilderPatternDp_Hands_On3.AssemblyInfoInputs.cache
+C:\Users\Sadhik\source\repos\BuilderPatternDp_Hands_On3\obj\Debug\netcoreapp3.1\BuilderPatternDp_Hands_On3.AssemblyInfo.cs
+C:\Users\Sadhik\source\repos\BuilderPatternDp_Hands_On3\obj\Debug\netcoreapp3.1\BuilderPatternDp_Hands_On3.csproj.CoreCompileInputs.cache
+C:\Users\Sadhik\source\repos\BuilderPatternDp_Hands_On3\obj\Debug\netcoreapp3.1\BuilderPatternDp_Hands_On3.dll
+C:\Users\Sadhik\source\repos\BuilderPatternDp_Hands_On3\obj\Debug\netcoreapp3.1\BuilderPatternDp_Hands_On3.pdb
+C:\Users\Sadhik\source\repos\BuilderPatternDp_Hands_On3\obj\Debug\netcoreapp3.1\BuilderPatternDp_Hands_On3.genruntimeconfig.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BdW11lKI/v+NWwjrnGfWhOt0mtM5S+7QJOHY+vmg8601uAU5fjJdbM2bO4x6OfTC9mF5Myqfb4A3jHqMeUlO6g==",
+  "dgSpecHash": "kU2ZPyo/C4Iac4e1cOKNAKNR2jNdSg6B4/iW2V8Dcjd2PfuIe8qPcEXM8IDdvcKC0KlvMq8zrcjTdkamctqsXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sadhik\\source\\repos\\AspPartialViewUsage\\AspPartialViewUsage.csproj",
+  "projectFilePath": "C:\\Users\\Sadhik\\Desktop\\Hands on-890592\\ASP.NetCore\\AspPartialViewUsage\\AspPartialViewUsage.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sadhik\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Sadhik\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

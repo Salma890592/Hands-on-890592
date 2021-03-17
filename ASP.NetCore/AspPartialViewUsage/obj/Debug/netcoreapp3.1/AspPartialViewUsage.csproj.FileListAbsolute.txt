@@ -109,3 +109,12 @@ C:\Users\Sadhik\source\repos\AspPartialViewUsage\obj\Debug\netcoreapp3.1\AspPart
 C:\Users\Sadhik\source\repos\AspPartialViewUsage\obj\Debug\netcoreapp3.1\AspPartialViewUsage.genruntimeconfig.cache
 C:\Users\Sadhik\source\repos\AspPartialViewUsage\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\Sadhik\source\repos\AspPartialViewUsage\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_EmployeeTable.cshtml.g.cs
+C:\Users\Sadhik\Desktop\Hands on-890592\ASP.NetCore\AspPartialViewUsage\obj\Debug\netcoreapp3.1\AspPartialViewUsage.csprojAssemblyReference.cache
+C:\Users\Sadhik\Desktop\Hands on-890592\ASP.NetCore\AspPartialViewUsage\obj\Debug\netcoreapp3.1\AspPartialViewUsage.AssemblyInfoInputs.cache
+C:\Users\Sadhik\Desktop\Hands on-890592\ASP.NetCore\AspPartialViewUsage\obj\Debug\netcoreapp3.1\AspPartialViewUsage.AssemblyInfo.cs
+C:\Users\Sadhik\Desktop\Hands on-890592\ASP.NetCore\AspPartialViewUsage\obj\Debug\netcoreapp3.1\AspPartialViewUsage.csproj.CoreCompileInputs.cache
+C:\Users\Sadhik\Desktop\Hands on-890592\ASP.NetCore\AspPartialViewUsage\obj\Debug\netcoreapp3.1\AspPartialViewUsage.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sadhik\Desktop\Hands on-890592\ASP.NetCore\AspPartialViewUsage\obj\Debug\netcoreapp3.1\AspPartialViewUsage.RazorAssemblyInfo.cache
+C:\Users\Sadhik\Desktop\Hands on-890592\ASP.NetCore\AspPartialViewUsage\obj\Debug\netcoreapp3.1\AspPartialViewUsage.RazorAssemblyInfo.cs
+C:\Users\Sadhik\Desktop\Hands on-890592\ASP.NetCore\AspPartialViewUsage\obj\Debug\netcoreapp3.1\AspPartialViewUsage.dll
+C:\Users\Sadhik\Desktop\Hands on-890592\ASP.NetCore\AspPartialViewUsage\obj\Debug\netcoreapp3.1\AspPartialViewUsage.pdb
