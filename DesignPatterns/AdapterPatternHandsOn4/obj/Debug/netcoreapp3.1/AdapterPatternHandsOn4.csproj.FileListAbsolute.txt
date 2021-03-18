@@ -1,0 +1,12 @@
+C:\Users\Sadhik\source\repos\AdapterPatternHandsOn4\bin\Debug\netcoreapp3.1\AdapterPatternHandsOn4.exe
+C:\Users\Sadhik\source\repos\AdapterPatternHandsOn4\bin\Debug\netcoreapp3.1\AdapterPatternHandsOn4.deps.json
+C:\Users\Sadhik\source\repos\AdapterPatternHandsOn4\bin\Debug\netcoreapp3.1\AdapterPatternHandsOn4.runtimeconfig.json
+C:\Users\Sadhik\source\repos\AdapterPatternHandsOn4\bin\Debug\netcoreapp3.1\AdapterPatternHandsOn4.runtimeconfig.dev.json
+C:\Users\Sadhik\source\repos\AdapterPatternHandsOn4\bin\Debug\netcoreapp3.1\AdapterPatternHandsOn4.dll
+C:\Users\Sadhik\source\repos\AdapterPatternHandsOn4\bin\Debug\netcoreapp3.1\AdapterPatternHandsOn4.pdb
+C:\Users\Sadhik\source\repos\AdapterPatternHandsOn4\obj\Debug\netcoreapp3.1\AdapterPatternHandsOn4.AssemblyInfoInputs.cache
+C:\Users\Sadhik\source\repos\AdapterPatternHandsOn4\obj\Debug\netcoreapp3.1\AdapterPatternHandsOn4.AssemblyInfo.cs
+C:\Users\Sadhik\source\repos\AdapterPatternHandsOn4\obj\Debug\netcoreapp3.1\AdapterPatternHandsOn4.csproj.CoreCompileInputs.cache
+C:\Users\Sadhik\source\repos\AdapterPatternHandsOn4\obj\Debug\netcoreapp3.1\AdapterPatternHandsOn4.dll
+C:\Users\Sadhik\source\repos\AdapterPatternHandsOn4\obj\Debug\netcoreapp3.1\AdapterPatternHandsOn4.pdb
+C:\Users\Sadhik\source\repos\AdapterPatternHandsOn4\obj\Debug\netcoreapp3.1\AdapterPatternHandsOn4.genruntimeconfig.cache
