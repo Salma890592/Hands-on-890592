@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sadhik\\Desktop\\Hands on-890592\\DesignPatterns\\AbstractFactoryDP_Hands_On2\\AbstractFactoryDP_Hands_On2.csproj": {}
+    "C:\\Users\\Sadhik\\source\\repos\\AbstractFactoryCaseStudy\\AbstractFactoryCaseStudy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sadhik\\Desktop\\Hands on-890592\\DesignPatterns\\AbstractFactoryDP_Hands_On2\\AbstractFactoryDP_Hands_On2.csproj": {
+    "C:\\Users\\Sadhik\\source\\repos\\AbstractFactoryCaseStudy\\AbstractFactoryCaseStudy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sadhik\\Desktop\\Hands on-890592\\DesignPatterns\\AbstractFactoryDP_Hands_On2\\AbstractFactoryDP_Hands_On2.csproj",
-        "projectName": "AbstractFactoryDP_Hands_On2",
-        "projectPath": "C:\\Users\\Sadhik\\Desktop\\Hands on-890592\\DesignPatterns\\AbstractFactoryDP_Hands_On2\\AbstractFactoryDP_Hands_On2.csproj",
+        "projectUniqueName": "C:\\Users\\Sadhik\\source\\repos\\AbstractFactoryCaseStudy\\AbstractFactoryCaseStudy.csproj",
+        "projectName": "AbstractFactoryCaseStudy",
+        "projectPath": "C:\\Users\\Sadhik\\source\\repos\\AbstractFactoryCaseStudy\\AbstractFactoryCaseStudy.csproj",
         "packagesPath": "C:\\Users\\Sadhik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sadhik\\Desktop\\Hands on-890592\\DesignPatterns\\AbstractFactoryDP_Hands_On2\\obj\\",
+        "outputPath": "C:\\Users\\Sadhik\\source\\repos\\AbstractFactoryCaseStudy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sadhik\\AppData\\Roaming\\NuGet\\NuGet.Config",

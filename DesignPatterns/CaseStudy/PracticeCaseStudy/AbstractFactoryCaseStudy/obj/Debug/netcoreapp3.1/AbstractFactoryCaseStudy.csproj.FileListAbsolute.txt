@@ -1,0 +1,13 @@
+C:\Users\Sadhik\source\repos\AbstractFactoryCaseStudy\bin\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.exe
+C:\Users\Sadhik\source\repos\AbstractFactoryCaseStudy\bin\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.deps.json
+C:\Users\Sadhik\source\repos\AbstractFactoryCaseStudy\bin\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.runtimeconfig.json
+C:\Users\Sadhik\source\repos\AbstractFactoryCaseStudy\bin\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.runtimeconfig.dev.json
+C:\Users\Sadhik\source\repos\AbstractFactoryCaseStudy\bin\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.dll
+C:\Users\Sadhik\source\repos\AbstractFactoryCaseStudy\bin\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.pdb
+C:\Users\Sadhik\source\repos\AbstractFactoryCaseStudy\obj\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.csprojAssemblyReference.cache
+C:\Users\Sadhik\source\repos\AbstractFactoryCaseStudy\obj\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.AssemblyInfoInputs.cache
+C:\Users\Sadhik\source\repos\AbstractFactoryCaseStudy\obj\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.AssemblyInfo.cs
+C:\Users\Sadhik\source\repos\AbstractFactoryCaseStudy\obj\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\Sadhik\source\repos\AbstractFactoryCaseStudy\obj\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.dll
+C:\Users\Sadhik\source\repos\AbstractFactoryCaseStudy\obj\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.pdb
+C:\Users\Sadhik\source\repos\AbstractFactoryCaseStudy\obj\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.genruntimeconfig.cache
