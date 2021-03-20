@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sadhik\\source\\repos\\MediatorDPHandsOn7\\MediatorDPHandsOn7.csproj": {}
+    "C:\\Users\\Sadhik\\Desktop\\Hands on-890592\\DesignPatterns\\MediatorDPHandsOn7\\MediatorDPHandsOn7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sadhik\\source\\repos\\MediatorDPHandsOn7\\MediatorDPHandsOn7.csproj": {
+    "C:\\Users\\Sadhik\\Desktop\\Hands on-890592\\DesignPatterns\\MediatorDPHandsOn7\\MediatorDPHandsOn7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sadhik\\source\\repos\\MediatorDPHandsOn7\\MediatorDPHandsOn7.csproj",
+        "projectUniqueName": "C:\\Users\\Sadhik\\Desktop\\Hands on-890592\\DesignPatterns\\MediatorDPHandsOn7\\MediatorDPHandsOn7.csproj",
         "projectName": "MediatorDPHandsOn7",
-        "projectPath": "C:\\Users\\Sadhik\\source\\repos\\MediatorDPHandsOn7\\MediatorDPHandsOn7.csproj",
+        "projectPath": "C:\\Users\\Sadhik\\Desktop\\Hands on-890592\\DesignPatterns\\MediatorDPHandsOn7\\MediatorDPHandsOn7.csproj",
         "packagesPath": "C:\\Users\\Sadhik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sadhik\\source\\repos\\MediatorDPHandsOn7\\obj\\",
+        "outputPath": "C:\\Users\\Sadhik\\Desktop\\Hands on-890592\\DesignPatterns\\MediatorDPHandsOn7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sadhik\\AppData\\Roaming\\NuGet\\NuGet.Config",

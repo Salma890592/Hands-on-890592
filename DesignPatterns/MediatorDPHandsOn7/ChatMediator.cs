@@ -14,11 +14,16 @@ namespace MediatorDPHandsOn7
 
         public void SendMessage(IUser u, string message)
         {
+            Console.WriteLine("Message send by" + u.Name);
             foreach (var user in users)
             {
+                
                 if (user != u)
                     user.RecieveMesage(u, message);
+
             }
+           
+
         }
     }
 }

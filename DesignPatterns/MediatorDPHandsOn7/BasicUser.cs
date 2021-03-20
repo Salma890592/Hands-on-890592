@@ -17,7 +17,7 @@ namespace MediatorDPHandsOn7
         public void RecieveMesage(IUser u, string message)
         {
 
-            Console.WriteLine(message + " send by " + u.Name);
+            Console.WriteLine(message + " received by " + this.Name);
         }
 
         public void SendMesage(string message)

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sadhik\\source\\repos\\ObserverPatternCaseStudy\\ObserverPatternCaseStudy.csproj": {}
+    "C:\\Users\\Sadhik\\Desktop\\Hands on-890592\\DesignPatterns\\CaseStudy\\PracticeCaseStudy\\ObserverPatternCaseStudy\\ObserverPatternCaseStudy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sadhik\\source\\repos\\ObserverPatternCaseStudy\\ObserverPatternCaseStudy.csproj": {
+    "C:\\Users\\Sadhik\\Desktop\\Hands on-890592\\DesignPatterns\\CaseStudy\\PracticeCaseStudy\\ObserverPatternCaseStudy\\ObserverPatternCaseStudy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sadhik\\source\\repos\\ObserverPatternCaseStudy\\ObserverPatternCaseStudy.csproj",
+        "projectUniqueName": "C:\\Users\\Sadhik\\Desktop\\Hands on-890592\\DesignPatterns\\CaseStudy\\PracticeCaseStudy\\ObserverPatternCaseStudy\\ObserverPatternCaseStudy.csproj",
         "projectName": "ObserverPatternCaseStudy",
-        "projectPath": "C:\\Users\\Sadhik\\source\\repos\\ObserverPatternCaseStudy\\ObserverPatternCaseStudy.csproj",
+        "projectPath": "C:\\Users\\Sadhik\\Desktop\\Hands on-890592\\DesignPatterns\\CaseStudy\\PracticeCaseStudy\\ObserverPatternCaseStudy\\ObserverPatternCaseStudy.csproj",
         "packagesPath": "C:\\Users\\Sadhik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sadhik\\source\\repos\\ObserverPatternCaseStudy\\obj\\",
+        "outputPath": "C:\\Users\\Sadhik\\Desktop\\Hands on-890592\\DesignPatterns\\CaseStudy\\PracticeCaseStudy\\ObserverPatternCaseStudy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sadhik\\AppData\\Roaming\\NuGet\\NuGet.Config",

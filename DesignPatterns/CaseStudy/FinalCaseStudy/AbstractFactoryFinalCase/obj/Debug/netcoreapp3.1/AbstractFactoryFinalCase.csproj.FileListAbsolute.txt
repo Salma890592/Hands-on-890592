@@ -1,0 +1,26 @@
+C:\Users\Sadhik\source\repos\AbstractFactoryFinalCase\bin\Debug\netcoreapp3.1\AbstractFactoryFinalCase.exe
+C:\Users\Sadhik\source\repos\AbstractFactoryFinalCase\bin\Debug\netcoreapp3.1\AbstractFactoryFinalCase.deps.json
+C:\Users\Sadhik\source\repos\AbstractFactoryFinalCase\bin\Debug\netcoreapp3.1\AbstractFactoryFinalCase.runtimeconfig.json
+C:\Users\Sadhik\source\repos\AbstractFactoryFinalCase\bin\Debug\netcoreapp3.1\AbstractFactoryFinalCase.runtimeconfig.dev.json
+C:\Users\Sadhik\source\repos\AbstractFactoryFinalCase\bin\Debug\netcoreapp3.1\AbstractFactoryFinalCase.dll
+C:\Users\Sadhik\source\repos\AbstractFactoryFinalCase\bin\Debug\netcoreapp3.1\AbstractFactoryFinalCase.pdb
+C:\Users\Sadhik\source\repos\AbstractFactoryFinalCase\obj\Debug\netcoreapp3.1\AbstractFactoryFinalCase.csprojAssemblyReference.cache
+C:\Users\Sadhik\source\repos\AbstractFactoryFinalCase\obj\Debug\netcoreapp3.1\AbstractFactoryFinalCase.AssemblyInfoInputs.cache
+C:\Users\Sadhik\source\repos\AbstractFactoryFinalCase\obj\Debug\netcoreapp3.1\AbstractFactoryFinalCase.AssemblyInfo.cs
+C:\Users\Sadhik\source\repos\AbstractFactoryFinalCase\obj\Debug\netcoreapp3.1\AbstractFactoryFinalCase.csproj.CoreCompileInputs.cache
+C:\Users\Sadhik\source\repos\AbstractFactoryFinalCase\obj\Debug\netcoreapp3.1\AbstractFactoryFinalCase.dll
+C:\Users\Sadhik\source\repos\AbstractFactoryFinalCase\obj\Debug\netcoreapp3.1\AbstractFactoryFinalCase.pdb
+C:\Users\Sadhik\source\repos\AbstractFactoryFinalCase\obj\Debug\netcoreapp3.1\AbstractFactoryFinalCase.genruntimeconfig.cache
+C:\Users\Sadhik\Desktop\Hands on-890592\DesignPatterns\CaseStudy\FinalCaseStudy\AbstractFactoryFinalCase\bin\Debug\netcoreapp3.1\AbstractFactoryFinalCase.exe
+C:\Users\Sadhik\Desktop\Hands on-890592\DesignPatterns\CaseStudy\FinalCaseStudy\AbstractFactoryFinalCase\bin\Debug\netcoreapp3.1\AbstractFactoryFinalCase.deps.json
+C:\Users\Sadhik\Desktop\Hands on-890592\DesignPatterns\CaseStudy\FinalCaseStudy\AbstractFactoryFinalCase\bin\Debug\netcoreapp3.1\AbstractFactoryFinalCase.runtimeconfig.json
+C:\Users\Sadhik\Desktop\Hands on-890592\DesignPatterns\CaseStudy\FinalCaseStudy\AbstractFactoryFinalCase\bin\Debug\netcoreapp3.1\AbstractFactoryFinalCase.runtimeconfig.dev.json
+C:\Users\Sadhik\Desktop\Hands on-890592\DesignPatterns\CaseStudy\FinalCaseStudy\AbstractFactoryFinalCase\bin\Debug\netcoreapp3.1\AbstractFactoryFinalCase.dll
+C:\Users\Sadhik\Desktop\Hands on-890592\DesignPatterns\CaseStudy\FinalCaseStudy\AbstractFactoryFinalCase\bin\Debug\netcoreapp3.1\AbstractFactoryFinalCase.pdb
+C:\Users\Sadhik\Desktop\Hands on-890592\DesignPatterns\CaseStudy\FinalCaseStudy\AbstractFactoryFinalCase\obj\Debug\netcoreapp3.1\AbstractFactoryFinalCase.csprojAssemblyReference.cache
+C:\Users\Sadhik\Desktop\Hands on-890592\DesignPatterns\CaseStudy\FinalCaseStudy\AbstractFactoryFinalCase\obj\Debug\netcoreapp3.1\AbstractFactoryFinalCase.AssemblyInfoInputs.cache
+C:\Users\Sadhik\Desktop\Hands on-890592\DesignPatterns\CaseStudy\FinalCaseStudy\AbstractFactoryFinalCase\obj\Debug\netcoreapp3.1\AbstractFactoryFinalCase.AssemblyInfo.cs
+C:\Users\Sadhik\Desktop\Hands on-890592\DesignPatterns\CaseStudy\FinalCaseStudy\AbstractFactoryFinalCase\obj\Debug\netcoreapp3.1\AbstractFactoryFinalCase.csproj.CoreCompileInputs.cache
+C:\Users\Sadhik\Desktop\Hands on-890592\DesignPatterns\CaseStudy\FinalCaseStudy\AbstractFactoryFinalCase\obj\Debug\netcoreapp3.1\AbstractFactoryFinalCase.dll
+C:\Users\Sadhik\Desktop\Hands on-890592\DesignPatterns\CaseStudy\FinalCaseStudy\AbstractFactoryFinalCase\obj\Debug\netcoreapp3.1\AbstractFactoryFinalCase.pdb
+C:\Users\Sadhik\Desktop\Hands on-890592\DesignPatterns\CaseStudy\FinalCaseStudy\AbstractFactoryFinalCase\obj\Debug\netcoreapp3.1\AbstractFactoryFinalCase.genruntimeconfig.cache

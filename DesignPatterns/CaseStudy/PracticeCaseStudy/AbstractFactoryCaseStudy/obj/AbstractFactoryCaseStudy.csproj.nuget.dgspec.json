@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sadhik\\source\\repos\\AbstractFactoryCaseStudy\\AbstractFactoryCaseStudy.csproj": {}
+    "C:\\Users\\Sadhik\\Desktop\\Hands on-890592\\DesignPatterns\\CaseStudy\\PracticeCaseStudy\\AbstractFactoryCaseStudy\\AbstractFactoryCaseStudy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sadhik\\source\\repos\\AbstractFactoryCaseStudy\\AbstractFactoryCaseStudy.csproj": {
+    "C:\\Users\\Sadhik\\Desktop\\Hands on-890592\\DesignPatterns\\CaseStudy\\PracticeCaseStudy\\AbstractFactoryCaseStudy\\AbstractFactoryCaseStudy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sadhik\\source\\repos\\AbstractFactoryCaseStudy\\AbstractFactoryCaseStudy.csproj",
+        "projectUniqueName": "C:\\Users\\Sadhik\\Desktop\\Hands on-890592\\DesignPatterns\\CaseStudy\\PracticeCaseStudy\\AbstractFactoryCaseStudy\\AbstractFactoryCaseStudy.csproj",
         "projectName": "AbstractFactoryCaseStudy",
-        "projectPath": "C:\\Users\\Sadhik\\source\\repos\\AbstractFactoryCaseStudy\\AbstractFactoryCaseStudy.csproj",
+        "projectPath": "C:\\Users\\Sadhik\\Desktop\\Hands on-890592\\DesignPatterns\\CaseStudy\\PracticeCaseStudy\\AbstractFactoryCaseStudy\\AbstractFactoryCaseStudy.csproj",
         "packagesPath": "C:\\Users\\Sadhik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sadhik\\source\\repos\\AbstractFactoryCaseStudy\\obj\\",
+        "outputPath": "C:\\Users\\Sadhik\\Desktop\\Hands on-890592\\DesignPatterns\\CaseStudy\\PracticeCaseStudy\\AbstractFactoryCaseStudy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sadhik\\AppData\\Roaming\\NuGet\\NuGet.Config",
